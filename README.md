@@ -1,1 +1,3 @@
-# statistic_vault
+# statistic obsidian vault
+
+Open with [obsidian](https://obsidian.md/).
