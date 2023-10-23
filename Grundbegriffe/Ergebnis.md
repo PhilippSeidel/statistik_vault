@@ -1,0 +1,1 @@
+Element des [[Grundraum|Grundraums]]. Kann bei einem Zufallsexperiment rauskommen.
