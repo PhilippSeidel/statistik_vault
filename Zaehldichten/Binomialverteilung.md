@@ -1,0 +1,3 @@
+Eine [[Zaehldichte]].
+
+![[binomialverteilung.png]]

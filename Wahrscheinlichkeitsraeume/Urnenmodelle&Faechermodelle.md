@@ -1,0 +1,3 @@
+![[urnenfaechermodelle.png]]
+
+(siehe [[Grundraum]])

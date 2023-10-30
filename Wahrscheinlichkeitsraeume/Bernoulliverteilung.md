@@ -1,1 +1,1 @@
-TODO
+![[bernoulliverteilung.png]]
