@@ -1,1 +1,2 @@
 ![[bernoulliverteilung.png]]
+(siehe [[Grundraum]])
